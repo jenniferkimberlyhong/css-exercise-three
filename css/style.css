@@ -16,7 +16,6 @@ h1 {
 
 h3 {
   font-size: .9rem;
-  line-height: 1px;
   font-weight: 500;
   text-align: left;
 }
@@ -52,13 +51,15 @@ nav {
 
 .content {
   box-sizing: border-box;
+  display: inline-block;
   border: 5px;
-  padding: 15px;
+  padding: 5%;
 }
 
 .arrow {
   box-sizing: border-box;
   display: inline;
   color: black;
+  padding: 2%;
   float: right;
 }
