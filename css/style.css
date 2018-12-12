@@ -58,8 +58,9 @@ nav {
 
 .arrow {
   box-sizing: border-box;
+  margin-top: 6px;
   display: inline;
   color: black;
-  padding: 2%;
+  padding: 5%;
   float: right;
 }
