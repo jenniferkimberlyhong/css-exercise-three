@@ -26,7 +26,9 @@ h3 {
   margin: 0 auto;
   width: 420px;
 }
-
+.arrow-left {
+  padding-left: 4%;
+}
 nav {
   background-color: black;
   margin: 0 auto;
