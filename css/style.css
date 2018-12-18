@@ -39,17 +39,17 @@ nav {
 
 .restaurant-list {
   box-sizing: border-box;
-  background-color: gray;
+  background-color: white;
   width: 420px;
 }
 
 .location {
   box-sizing: border-box;
-  background-color: gray;
+  background-color: white;
   border-bottom: .5px solid black;
 }
 
-.location:hover {background:white}
+.location:hover {background:gray}
 
 .content {
   box-sizing: border-box;
